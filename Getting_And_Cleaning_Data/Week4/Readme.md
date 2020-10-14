@@ -2,6 +2,10 @@
 
 This is the final Week 4 assignment for the Getting and Cleaning Data course on Coursera
 
+### How to use
+Just download run_analysis.R and run it in R using source("run_analysis.R"). 
+The script will download all required data and transform it as per the assignment requirements. 
+
 ### Description of the Data used
 The X variable has measurements of various physical quantities recorded by a smartphone. The variable Y contains Activity Indicators.
 
@@ -49,5 +53,3 @@ Convert activity labels to characters and add a new column as factor
 Give the selected descriptive names to variable columns
 5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
-### How to use
-Just download run_analysis.R and run it in R using source("run_analysis.R") 
