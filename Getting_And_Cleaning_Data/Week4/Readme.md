@@ -49,3 +49,5 @@ Convert activity labels to characters and add a new column as factor
 Give the selected descriptive names to variable columns
 5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
+### How to use
+Just download run_analysis.R and run it in R using source("run_analysis.R") 
